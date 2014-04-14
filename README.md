@@ -15,7 +15,7 @@ Below the holes are indicator numbers for each pattern
 
 Below those are some common footprint sizes, 1206, 0805, 0603 and 0402
 
-At the very bottom is an SOD-80 (minimelf) resistor, for no particular reason.
+At the very bottom is an SOD-80 (minimelf) diode, for no particular reason other than I like the name melf.
 
 UV Tuning Usage
 ===============
@@ -28,7 +28,7 @@ Use a piece of card to cover 4 of the patterns, expose 30 seconds.  Without movi
 
 If you want to have an offset, make the last exposure be the offset time, example you want to start at 2m30 and step in 15s increments
 
-  1. Expose 15s, move card to reveal two
+  1. Starting with 1 revealed, Expose 15s, move card to reveal two
   2. Expose 15s, move card to reveal three
   3. Expose 15s, move card to reveal four
   4. Expose 15s, remove card revealing all five panels
